@@ -9,10 +9,17 @@ step 3: after making a dataframe, we will work on the data for further processin
 
 step 4: find: 
 1.100 comments
+
 2.Description of the video
+
 3.View Count
+
 4.Like Count
+
 5.Dislike Count
+
 6.Comment Count
+
 7.Duration of the video
+
 8.Favorite Count
